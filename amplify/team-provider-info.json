@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-rnflock-dev-172538-authRole",
+      "UnauthRoleArn": "arn:aws:iam::221470257712:role/amplify-rnflock-dev-172538-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::221470257712:role/amplify-rnflock-dev-172538-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-rnflock-dev-172538-deployment",
+      "UnauthRoleName": "amplify-rnflock-dev-172538-unauthRole",
+      "StackName": "amplify-rnflock-dev-172538",
+      "StackId": "arn:aws:cloudformation:us-east-1:221470257712:stack/amplify-rnflock-dev-172538/79b6ce20-1188-11eb-97d5-12342204bca9",
+      "AmplifyAppId": "do5hd2afrjv32"
+    },
+    "categories": {
+      "auth": {
+        "rnflockfddaa7ed": {}
+      }
+    }
+  }
+}
